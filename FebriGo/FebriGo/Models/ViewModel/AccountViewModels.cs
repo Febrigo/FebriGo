@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace FebriGo.Models
+namespace FebriGo.Models.ViewModel
 {
     public class ExternalLoginConfirmationViewModel
     {
